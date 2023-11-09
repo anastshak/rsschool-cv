@@ -12,6 +12,13 @@
 ## About me
 I'm 23 years old. I’ve been interested in technology my whole life, so one day I decided to become a developer. I chose Front-end by accident, but in the process I realized that I really like it. My goal is to acquire the knowledge for development in this direction and, naturally, employment.
 ## Skills
+- HTML
+- CSS
+- JavaScript
+- React, Redux
+- Git
+- VS Code
+
 ## Code Examples
 ## Work Experience
 There are no work experience at the moment, but I've got some study projects:
