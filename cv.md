@@ -1,9 +1,12 @@
 # Anastasia Shakura
+
 ***
+
 ### Junior Front-end Developer
 **Belarus** 
 
 ***
+
 ## Contacts
 - e-mail: [nastyashakura@gmail.com](nastyashakura@gmail.com)
 - telegram: [nastyashakura](https://t.me/@nastyashakura)
