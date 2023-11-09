@@ -2,6 +2,7 @@
 ***
 ### Junior Front-end Developer
 **Belarus** 
+
 ***
 ## Contacts
 - e-mail: [nastyashakura@gmail.com](nastyashakura@gmail.com)
@@ -22,7 +23,7 @@ I'm 23 years old. I’ve been interested in technology my whole life, so one day
 - VS Code
 
 ## Code Examples
-Example: Palindrome
+Palindrome:
 ```
 const palindrome = str => {
     str = str.toLowerCase().replace(/\s/g, '');
