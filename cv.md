@@ -20,6 +20,17 @@ I'm 23 years old. I’ve been interested in technology my whole life, so one day
 - VS Code
 
 ## Code Examples
+Example: Palindrome
+```
+const palindrome = str => {
+    str = str.toLowerCase().replace(/\s/g, '');
+    if (str === str.split('').reverse().join('')) {
+        console.log('palindrome')
+    } else {
+        console.log('no palindrome');
+    }
+}
+```
 ## Work Experience
 There are no work experience at the moment, but I've got some study projects:
 - [diplom-html-css](https://github.com/anastshak/diplom-html-css)
